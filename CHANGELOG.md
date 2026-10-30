@@ -1,5 +1,11 @@
 # Zmiany
 
+## 2026-10-30: konsultacja z psychiatrą 350 zł
+
+Nowa cena od 1.11.2026 ze zgłoszenia Marcina z 30.10.2026, zmianę na stronie Nagaba zatwierdził Darek. Konsultacja z psychiatrą 350 zł (było 300). Zmienione w `cennik.html`.
+
+AI_ACT_CHECK: NIE_DOTYCZY. Techniczna zmiana jednej kwoty w cenniku na polecenie właściciela, bez nowych treści.
+
 ## 2026-10-07: nowe ceny detoksu
 
 Zmiana cen podana przez Krystiana 07.10.2026: detoks 1-dniowy 1 200 zł (było 1 000), 3-dniowy 3 600 zł (było 2 700). Zmienione w `cennik.html`.
